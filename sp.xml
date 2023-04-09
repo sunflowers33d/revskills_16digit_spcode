@@ -8,22 +8,20 @@
 <sp name="Motorola default" key="0123456789abcdef"></sp>
 <sp name="ZTE GSM default" key="4345545A4070726F"></sp>
 <sp name="ZTE CDMA default" key="1234567812121212"></sp>
+<sp name="Huawei default" key="3630313046575450"></sp>
+<sp name="Audiovox (Toshiba)" key="415544494f564f58"></sp>
+<sp name="Audiovox (Hyundai)" key="0101010101010101"></sp>
+<sp name="Curitel HX510b/520b" key="1524058612610062"></sp>
+<sp name="Curitel HX525b" key="7019058614040062"></sp>
 <sp name="Hisense C127" key="2533A4C9DCE6D53F"></sp>
 <sp name="Hisense C177" key="A36223D8B2BB404D"></sp>
-<sp name="Huawei default" key="3630313046575450"></sp>
-<sp name="Sky 7100-7300" key="41cdf4444eca0449"></sp>
-<sp name="Sky 7400" key="c4d3e2f1cdab3412"></sp>
-<sp name="Sky 7700" key="214fb243cd7a1247"></sp>
-<sp name="Sky 8100" key="c4d3e2f1cdab3412"></sp>
-<sp name="Sky 8300" key="c550546871950bff"></sp>
-<sp name="Sky 8500" key="8434e198c0b35302"></sp>
-<sp name="Sky B1000" key="3802601ba590c206"></sp>
-<sp name="Sky 5000~6400" key="C4D3E2F1EFCD3412"></sp>
-<sp name="Sky 8400" key="54FC196FABD4C432"></sp>
-<sp name="Sky 8600" key="723B2CF9CF182617"></sp>
-<sp name="Sky 8700" key="C4F8847D7EDB542F"></sp>
-<sp name="Sky U100" key="C4D3E2F1CDAB3412"></sp>
-<sp name="Sky U110" key="33AEC5C442DFE7EC"></sp>
+<sp name="Huawei C5330" key="1480DE25D052AB36"></sp>
+<sp name="Hyundai H100/H150" key="1524058612610062"></sp>
+<sp name="Motorola C213/C222" key="1133557799bbddff"></sp>
+<sp name="Nokia 2705" key="2705270519800712"></sp>
+<sp name="Pantech Crux CDM8999VW" key="2009072520100625"></sp>
+<sp name="Pantech HX550c" key="1574894028765258"></sp>
+<sp name="Pantech UM-185c" key="2009040716283623"></sp>
 <sp name="Samsung MM-A700" key="2005020220050531"></sp>
 <sp name="Samsung SCH-A130" key="7754630762536473"></sp>
 <sp name="Samsung SCH-A160" key="20055574A8800822"></sp>
@@ -164,7 +162,7 @@
 <sp name="Samsung SCH-R400" key="1981091019770418"></sp>
 <sp name="Samsung SCH-R410" key="1981091019770418"></sp>
 <sp name="Samsung SCH-R430" key="2007111420080131"></sp>
-<sp name="Samsung SCH-R430 Alltel Prepay" key="2008071620080731"></sp>
+<sp name="Samsung SCH-R430 Alltel Prepaid" key="2008071620080731"></sp>
 <sp name="Samsung SCH-R450" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R451C" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R460" key="2008102920090228"></sp>
@@ -321,15 +319,19 @@
 <sp name="Samsung SPH-Z400" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-I325" key="2007041320080115"></sp>
 <sp name="Samsung SPH-I500" key="0000000000000000"></sp>
-<sp name="Audiovox (Toshiba)" key="415544494f564f58"></sp>
-<sp name="Audiovox (Hyundai)" key="0101010101010101"></sp>
-<sp name="Motorola c213,c222" key="1133557799bbddff"></sp>
-<sp name="Pantech hx550c" key="1574894028765258"></sp>
-<sp name="Pantech UM-185c" key="2009040716283623"></sp>
-<sp name="Pantech Crux (cdm8999vw)" key="2009072520100625"></sp>
-<sp name="Hyundai h100,h150" key="1524058612610062"></sp>
-<sp name="Curitel hx510b,520b" key="1524058612610062"></sp>
-<sp name="Curitel hx525b" key="7019058614040062"></sp>
-<sp name="Huawei C5330" key="1480DE25D052AB36"></sp>
-<sp name="Nokia 2705" key="2705270519800712"></sp>
+<sp name="Sky 5000~6400" key="C4D3E2F1EFCD3412"></sp>
+<sp name="Sky 7100-7300" key="41cdf4444eca0449"></sp>
+<sp name="Sky 7400" key="c4d3e2f1cdab3412"></sp>
+<sp name="Sky 7700" key="214fb243cd7a1247"></sp>
+<sp name="Sky 8100" key="c4d3e2f1cdab3412"></sp>
+<sp name="Sky 8300" key="c550546871950bff"></sp>
+<sp name="Sky 8500" key="8434e198c0b35302"></sp>
+<sp name="Sky B1000" key="3802601ba590c206"></sp>
+<sp name="Sky 8400" key="54FC196FABD4C432"></sp>
+<sp name="Sky 8600" key="723B2CF9CF182617"></sp>
+<sp name="Sky 8700" key="C4F8847D7EDB542F"></sp>
+<sp name="Sky U100" key="C4D3E2F1CDAB3412"></sp>
+<sp name="Sky U110" key="33AEC5C442DFE7EC"></sp>
+<sp name="UTStarcom Blitz TXT8010" key="2007112120080625"></sp>
+<sp name="UTStarcom TXTM8 TXT8026" key="2008110320090525"></sp>
 </RevSkills>
