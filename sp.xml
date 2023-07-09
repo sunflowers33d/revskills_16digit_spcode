@@ -27,21 +27,21 @@
 <sp name="Samsung SCH-A160" key="20055574A8800822"></sp>
 <sp name="Samsung SCH-A303" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A310" key="0000031020020502"></sp>
-<sp name="Samsung SCH-A310" key="34E8EAAC4054D68E"></sp>
+<sp name="Samsung SCH-A310 (1)" key="34E8EAAC4054D68E"></sp>
 <sp name="Samsung SCH-A375" key="0000037520011210"></sp>
 <sp name="Samsung SCH-A410" key="0000000000000000"></sp>
 <sp name="Samsung SCH-A460" key="444F43544F5220A9"></sp>
-<sp name="Samsung SCH-A460" key="4E4F56494E4B4921"></sp>
+<sp name="Samsung SCH-A460 (1)" key="4E4F56494E4B4921"></sp>
 <sp name="Samsung SCH-A475" key="0000047520020206"></sp>
 <sp name="Samsung SCH-A505" key="2D48435335303541"></sp>
 <sp name="Samsung SCH-A530" key="0000053020020815"></sp>
-<sp name="Samsung SCH-A530" key="0000053020020816"></sp>
-<sp name="Samsung SCH-A530" key="0000031020020502"></sp>
+<sp name="Samsung SCH-A530 (1)" key="0000053020020816"></sp>
+<sp name="Samsung SCH-A530 (2)" key="0000031020020502"></sp>
 <sp name="Samsung SCH-A560" key="2005020220050531"></sp>
 <sp name="Samsung SCH-A562" key="01050F045F678FF9"></sp>
 <sp name="Samsung SCH-A563" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A565" key="0000000000000000"></sp>
-<sp name="Samsung SCH-A565" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-A565 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A570" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A595" key="0000047520020206"></sp>
 <sp name="Samsung SCH-A600" key="01F2030F5F678FF9"></sp>
@@ -60,22 +60,22 @@
 <sp name="Samsung SCH-A685" key="2D48435335303541"></sp>
 <sp name="Samsung SCH-A690" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A700" key="2005020220050531"></sp>
-<sp name="Samsung SCH-A700" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-A700 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A725" key="2D48435335303541"></sp>
-<sp name="Samsung SCH-A725" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-A725 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A740" key="2D48435335303541"></sp>
-<sp name="Samsung SCH-A740" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-A740 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A770" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A790" key="0402022406210509"></sp>
 <sp name="Samsung SCH-A815" key="0402022406210509"></sp>
 <sp name="Samsung SCH-A820" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-A840" key="2004071020040331"></sp>
-<sp name="Samsung SCH-A840" key="4E4F56494E4B4921"></sp>
+<sp name="Samsung SCH-A840 (1)" key="4E4F56494E4B4921"></sp>
 <sp name="Samsung SCH-A840" key="4E4F5649E4B44921"></sp>
 <sp name="Samsung SCH-A850" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A870" key="1981091019770418"></sp>
 <sp name="Samsung SCH-A880" key="2004071020040331"></sp>
-<sp name="Samsung SCH-A880" key="200509226500A915"></sp>
+<sp name="Samsung SCH-A880 (1)" key="200509226500A915"></sp>
 <sp name="Samsung SCH-A890" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A895" key="2004071020040331"></sp>
 <sp name="Samsung SCH-A900" key="200509226500A915"></sp>
@@ -95,7 +95,7 @@
 <sp name="Samsung SCH-E250" key="D5D3C920C2D1C5CC"></sp>
 <sp name="Samsung SCH-E430" key="044900280F8001D1"></sp>
 <sp name="Samsung SCH-F359" key="D902000008000000"></sp>
-<sp name="Samsung SCH-F359" key="AC07000008000000"></sp>
+<sp name="Samsung SCH-F359 (1)" key="AC07000008000000"></sp>
 <sp name="Samsung SCH-F509" key="5903365113726913"></sp>
 <sp name="Samsung SCH-F519" key="0000140073000000"></sp>
 <sp name="Samsung SCH-F519" key="5903365113726913"></sp>
@@ -116,29 +116,30 @@
 <sp name="Samsung SCH-L210" key="1004062010F22560"></sp>
 <sp name="Samsung SCH-L310" key="2505062010F32560"></sp>
 <sp name="Samsung SCH-M300" key="1981091019770418"></sp>
-<sp name="Samsung SCH-M300" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SCH-M300" key="4E4F56494E4B4921"></sp>
+<sp name="Samsung SCH-M300 (1)" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-M300 (2)" key="4E4F56494E4B4921"></sp>
+<sp name="Samsung SCH-M309" key="5903365113726913"></sp>
 <sp name="Samsung SCH-M320" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-M450" key="1000EE01A04D0D00"></sp>
-<sp name="Samsung SCH-M450" key="807B00207047E54A"></sp>
+<sp name="Samsung SCH-M450 (1)" key="807B00207047E54A"></sp>
 <sp name="Samsung SCH-M500" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-M520" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-M540" key="FFFFFFFFFFFFFFFF"></sp>
-<sp name="Samsung SCH-M540" key="021C5143AB4A0020"></sp>
+<sp name="Samsung SCH-M540 (1)" key="021C5143AB4A0020"></sp>
 <sp name="Samsung SCH-N181" key="0000037520011210"></sp>
 <sp name="Samsung SCH-N191" key="0000037520011210"></sp>
 <sp name="Samsung SCH-N195" key="0000037520011210"></sp>
 <sp name="Samsung SCH-N255" key="0000000000000000"></sp>
-<sp name="Samsung SCH-N255" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SCH-N255 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-N345" key="6905110834560250"></sp>
 <sp name="Samsung SCH-N356" key="0000037520011210"></sp>
 <sp name="Samsung SCH-N356" key="4E4F533241014A01"></sp>
-<sp name="Samsung SCH-N356" key="4D4F4B4941015801"></sp>
-<sp name="Samsung SCH-N356" key="0000353736303000"></sp>
+<sp name="Samsung SCH-N356 (1)" key="4D4F4B4941015801"></sp>
+<sp name="Samsung SCH-N356 (2)" key="0000353736303000"></sp>
 <sp name="Samsung SCH-N362" key="2D48435333303641"></sp>
 <sp name="Samsung SCH-N375" key="0000037520011210"></sp>
 <sp name="Samsung SCH-N380" key="0000037520011210"></sp>
-<sp name="Samsung SCH-N380" key="6905110834560250"></sp>
+<sp name="Samsung SCH-N380 (1)" key="6905110834560250"></sp>
 <sp name="Samsung SCH-N392" key="2D48435333303641"></sp>
 <sp name="Samsung SCH-N393" key="2D48435333303641"></sp>
 <sp name="Samsung SCH-N395" key="2D4843533539334E"></sp>
@@ -184,7 +185,7 @@
 <sp name="Samsung SCH-S179" key="5903365113726913"></sp>
 <sp name="Samsung SCH-S229" key="0000037520011210"></sp>
 <sp name="Samsung SCH-S250" key="141C102802D192A0"></sp>
-<sp name="Samsung SCH-S250" key="49EE000000800100"></sp>
+<sp name="Samsung SCH-S250 (1)" key="49EE000000800100"></sp>
 <sp name="Samsung SCH-S259" key="5903365113726913"></sp>
 <sp name="Samsung SCH-S269" key="5903365113726913"></sp>
 <sp name="Samsung SCH-S299" key="5903365113726913"></sp>
@@ -236,6 +237,7 @@
 <sp name="Samsung SCH-V840" key="E9FD000000800100"></sp>
 <sp name="Samsung SCH-W120" key="0B2800D30A207047"></sp>
 <sp name="Samsung SCH-W339" key="5903365113726913"></sp>
+<sp name="Samsung SCH-W399" key="5903365113726913"></sp>
 <sp name="Samsung SCH-W569" key="5903365113726913"></sp>
 <sp name="Samsung SCH-X130" key="0D00A0E120329FE5"></sp>
 <sp name="Samsung SCH-X137" key="0D00A0E120329FE5"></sp>
@@ -272,26 +274,28 @@
 <sp name="Samsung SPH-A660" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A680" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A700" key="2005020220050531"></sp>
-<sp name="Samsung SPH-A700" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SPH-A700 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A740" key="2D48435335303541"></sp>
-<sp name="Samsung SPH-A740" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SPH-A740 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A760" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A800" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A820" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A840" key="4E4F56494E4B4921"></sp>
 <sp name="Samsung SPH-A840" key="4E4F5649E4B44921"></sp>
 <sp name="Samsung SPH-A880" key="20055574A8800822"></sp>
-<sp name="Samsung SPH-A880" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SPH-A880 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A900 Sprint" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A900 Pelephone" key="A900821695306438"></sp>
 <sp name="Samsung SPH-A920" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A940" key="2005020220050531"></sp>
 <sp name="Samsung SPH-A960" key="2005020220050531"></sp>
+<sp name="Samsung SPH-I325" key="2007041320080115"></sp>
+<sp name="Samsung SPH-I500" key="0000000000000000"></sp>
 <sp name="Samsung SPH-M240" key="021C5143AB4A0020"></sp>
 <sp name="Samsung SPH-M270" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M300" key="4E4F56494E4B4921"></sp>
-<sp name="Samsung SPH-M300" key="1D1C002E00D107D1"></sp>
-<sp name="Samsung SPH-M300" key="1981091019770418"></sp>
+<sp name="Samsung SPH-M300 (1)" key="1D1C002E00D107D1"></sp>
+<sp name="Samsung SPH-M300 (2)" key="1981091019770418"></sp>
 <sp name="Samsung SPH-M320" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M330" key="021C5143AB4A0020"></sp>
 <sp name="Samsung SPH-M500" key="01F2030F5F678FF9"></sp>
@@ -299,17 +303,17 @@
 <sp name="Samsung SPH-M540" key="021C5143AB4A0020"></sp>
 <sp name="Samsung SPH-M540" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M550" key="021C5143AB4A0020"></sp>
-<sp name="Samsung SPH-M550" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SPH-M550 (1)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M560" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M600" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M610" key="2005020220050531"></sp>
 <sp name="Samsung SPH-M620" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SPH-M620" key="0303040503030304"></sp>
-<sp name="Samsung SPH-M620" key="0405030303040400"></sp>
-<sp name="Samsung SPH-M620" key="0303030404006A01"></sp>
+<sp name="Samsung SPH-M620 (1)" key="0303040503030304"></sp>
+<sp name="Samsung SPH-M620 (2)" key="0405030303040400"></sp>
+<sp name="Samsung SPH-M620 (3)" key="0303030404006A01"></sp>
 <sp name="Samsung SPH-M800" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SPH-M800" key="3410D77300000800"></sp>
-<sp name="Samsung SPH-M800" key="2008060620081231"></sp>
+<sp name="Samsung SPH-M800 (1)" key="3410D77300000800"></sp>
+<sp name="Samsung SPH-M800 (2)" key="2008060620081231"></sp>
 <sp name="Samsung SPH-M810" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M850" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-M900" key="01F2030F5F678FF9"></sp>
@@ -317,16 +321,14 @@
 <sp name="Samsung SPH-N330" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-N500" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-Z400" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SPH-I325" key="2007041320080115"></sp>
-<sp name="Samsung SPH-I500" key="0000000000000000"></sp>
 <sp name="Sky 5000~6400" key="C4D3E2F1EFCD3412"></sp>
 <sp name="Sky 7100-7300" key="41cdf4444eca0449"></sp>
-<sp name="Sky 7400" key="c4d3e2f1cdab3412"></sp>
-<sp name="Sky 7700" key="214fb243cd7a1247"></sp>
-<sp name="Sky 8100" key="c4d3e2f1cdab3412"></sp>
-<sp name="Sky 8300" key="c550546871950bff"></sp>
-<sp name="Sky 8500" key="8434e198c0b35302"></sp>
-<sp name="Sky B1000" key="3802601ba590c206"></sp>
+<sp name="Sky 7400" key="C4D3E2F1CDAB3412"></sp>
+<sp name="Sky 7700" key="214FB243CD7A1247"></sp>
+<sp name="Sky 8100" key="C4D3E2F1CDAB3412"></sp>
+<sp name="Sky 8300" key="C550546871950BFF"></sp>
+<sp name="Sky 8500" key="8434E198C0B35302"></sp>
+<sp name="Sky B1000" key="3802601BA590C206"></sp>
 <sp name="Sky 8400" key="54FC196FABD4C432"></sp>
 <sp name="Sky 8600" key="723B2CF9CF182617"></sp>
 <sp name="Sky 8700" key="C4F8847D7EDB542F"></sp>
