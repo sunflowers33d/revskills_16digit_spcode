@@ -1,9 +1,9 @@
-# RevSkills 16-digit SP code XML
+# RevSkills / Mobile Revelator 16-digit SP code XML
 
-An updated version of **sp.xml** for use with the RevSkills mobile development and forensics tool.
+An updated version of **sp.xml** for use with the RevSkills and [Mobile Revelator](https://github.com/bkerler/MR) mobile development and forensics tools.
 
 
-# How to "install"
+# How to "install" on RevSkills
 
 Drag and drop this file into the /keys/ folder where RevSkills is installed. By default, this would be ``C:\Program Files (x86)\Revskills\config``.
 
