@@ -158,18 +158,18 @@
 <sp name="Samsung SCH-R200" key="2004071020040331"></sp>
 <sp name="Samsung SCH-R210" key="2007112220080228"></sp>
 <sp name="Samsung SCH-R211" key="2007112220080228"></sp>
-<sp name="Samsung SCH-R270 US Cellular" key="201101031979"></sp>  
+<sp name="Samsung SCH-R270 (US Cellular)" key="2011010319791981"></sp>  
 <sp name="Samsung SCH-R300" key="1981091019770418"></sp>
 <sp name="Samsung SCH-R310" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R311" key="2007111420080131"></sp>
-<sp name="Samsung SCH-R350 Alltel" key="2007111420080131"></sp>
+<sp name="Samsung SCH-R350 (Alltel)" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R350" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SCH-R351 Alltel" key="2007111420080131"></sp>
-<sp name="Samsung SCH-R380 MetroPCS\Cricket" key="2010102620110610"></sp>
+<sp name="Samsung SCH-R351 (Alltel)" key="2007111420080131"></sp>
+<sp name="Samsung SCH-R380 (MetroPCS\Cricket)" key="2010102620110610"></sp>
 <sp name="Samsung SCH-R400" key="1981091019770418"></sp>
 <sp name="Samsung SCH-R410" key="1981091019770418"></sp>
 <sp name="Samsung SCH-R430" key="2007111420080131"></sp>
-<sp name="Samsung SCH-R430 Alltel Prepaid" key="2008071620080731"></sp>
+<sp name="Samsung SCH-R430 (Alltel Prepaid)" key="2008071620080731"></sp>
 <sp name="Samsung SCH-R450" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R451C" key="2007111420080131"></sp>
 <sp name="Samsung SCH-R460" key="2008102920090228"></sp>
@@ -201,6 +201,7 @@
 <sp name="Samsung SCH-T191 (1)" key="0000353736303000"></sp>
 <sp name="Samsung SCH-U330" key="EBB4EDB0B8B8C2BD"></sp>
 <sp name="Samsung SCH-U340" key="2006082211901320"></sp>
+<sp name="Samsung SCH-U340 (Pelephone)" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SCH-U350" key="1945081520081106"></sp>
 <sp name="Samsung SCH-U350 (Alltel)" key="2009072820090731"></sp>
 <sp name="Samsung SCH-U360" key="1945081520081106"></sp>
@@ -291,8 +292,8 @@
 <sp name="Samsung SPH-A840" key="4E4F5649E4B44921"></sp>
 <sp name="Samsung SPH-A880" key="20055574A8800822"></sp>
 <sp name="Samsung SPH-A880 (1)" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SPH-A900 Sprint" key="01F2030F5F678FF9"></sp>
-<sp name="Samsung SPH-A900 Pelephone" key="A900821695306438"></sp>
+<sp name="Samsung SPH-A900 (Sprint)" key="01F2030F5F678FF9"></sp>
+<sp name="Samsung SPH-A900 (Pelephone)" key="A900821695306438"></sp>
 <sp name="Samsung SPH-A920" key="01F2030F5F678FF9"></sp>
 <sp name="Samsung SPH-A940" key="2005020220050531"></sp>
 <sp name="Samsung SPH-A960" key="2005020220050531"></sp>
